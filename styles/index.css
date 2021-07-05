@@ -1,0 +1,17 @@
+h1 {
+    color: red; 
+    text-align: center; 
+}
+
+p {
+    line-height: 2em; 
+    text-shadow: 3px 3px orange;
+}
+
+a{
+    text-decoration: line-through;
+}
+
+#title{
+    background-color: yellow;
+}
