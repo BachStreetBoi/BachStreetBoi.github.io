@@ -1,0 +1,41 @@
+/* ===Font==== */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
+
+
+/*====Classes====*/
+.section{
+    padding: 2rem 0 4rem; 
+}
+
+
+
+
+
+/*====Home====*/
+.home_grid{
+    gap: 1rem;
+}
+
+.home_items{ 
+    grid-template-columns: .5fr 3fr;
+    padding-top: 3.5rem;
+    align-items: center;
+}
+
+.home_socials{
+    display:grid;
+    grid-template-columns: max-content;
+    row-gap: 1rem;
+}
+/* Social Icons */
+.social_icon{
+    font-size: 1.25rem;
+    /* color: Add a color variable maybe? */
+
+.social_icon:hover{
+    /* color: Add a color variable? */
+}
+}
+
+
