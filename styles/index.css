@@ -1,5 +1,5 @@
-/* ===Font==== */
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
+/* Variables */
 
 
 
@@ -32,10 +32,35 @@
 .social_icon{
     font-size: 1.25rem;
     /* color: Add a color variable maybe? */
+}
+
 
 .social_icon:hover{
     /* color: Add a color variable? */
 }
+
+.blob{
+    width:400px;
+    fill:#00A2A4;
 }
 
+.blob_picture{
+    width:100px;
+}
 
+.home_info{
+    grid-column: 1/3;
+}
+
+.home_title{
+    /* font-size: Figure out size and color? */
+}
+
+.home_roles{
+    /* font-size: Figure out size and color?*/
+
+}
+
+.home_descript{
+    /* Figure out size and color? */
+}
